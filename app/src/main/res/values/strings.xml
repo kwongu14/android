@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="find_my_dog">Find My Dog</string>
+    <string name="create_free_account">Create free account</string>
+</resources>
